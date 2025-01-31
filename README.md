@@ -1,8 +1,41 @@
 # AWS Certified Cloud Practitioner (CLF-C02) - Beginner Course
 
+![awsccp](https://github.com/user-attachments/assets/1b69cbe8-e082-485f-9524-339c2bf2a7f7)
+
+
 Welcome to the **AWS Certified Cloud Practitioner (CLF-C02) - Beginner Course**! This comprehensive course is designed to provide you with a solid foundation in **Amazon Web Services (AWS)**, preparing you for the **AWS Certified Cloud Practitioner exam**.
 
 Whether you're new to cloud computing or seeking to enhance your existing knowledge, this course covers all the essential topics, from basic cloud concepts to advanced AWS services.
+
+
+## 📚 Key Tips for Success
+
+### 📝 Understand the Exam Format
+- **65 multiple-choice questions**
+- **90 minutes to complete**
+- **Passing score: 700 out of 1000**
+
+### 📌 Know the Topics Covered
+- **Cloud Concepts**: Basic understanding of cloud computing.
+- **AWS Core Services**: Familiarize yourself with key services like **EC2, S3, RDS, and Lambda**.
+- **Security and Compliance**: Understand **AWS security best practices**.
+- **Billing and Pricing**: Learn about the **AWS pricing model and billing practices**.
+- **Architecture**: Basic principles of **cloud architecture and AWS global infrastructure**.
+
+### 📅 Create a Study Plan
+- Set aside **dedicated study time** each week.
+- Use a mix of learning methods: **videos, reading, and hands-on labs**.
+
+### 🖥 Utilize Hands-on Experience
+- **Sign up for an AWS Free Tier account** to practice using AWS services.
+- Experiment with **deploying applications, setting up EC2 instances, and storing data in S3**.
+
+### 📖 Practice with Sample Questions
+- Familiarize yourself with the **question format**.
+- Use **practice tests** to identify weak areas.
+
+### 🔄 Stay Updated
+- AWS is **constantly evolving**, so make sure you're learning the latest features and services.
 
 ## 📌 What You'll Learn
 
