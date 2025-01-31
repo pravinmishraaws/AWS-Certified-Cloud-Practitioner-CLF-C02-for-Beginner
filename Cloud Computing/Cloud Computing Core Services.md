@@ -6,8 +6,11 @@ In this section, we will explore **Cloud Computing Services**—the core buildin
 
 ### **🔹 The Four Core Cloud Computing Services**
 1️⃣ **Compute**
+
 2️⃣ **Storage**
+
 3️⃣ **Database**
+
 4️⃣ **Networking**
 
 These services are fundamental to cloud computing, and understanding them is **crucial** for anyone working with cloud technologies.
