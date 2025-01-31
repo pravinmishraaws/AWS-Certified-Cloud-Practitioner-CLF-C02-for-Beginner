@@ -119,9 +119,13 @@ Whether you're new to cloud computing or seeking to enhance your existing knowle
 
 ## 🎓 Why Take This Course?
 ✅ Beginner-friendly approach
+
 ✅ Covers **ALL** AWS Certified Cloud Practitioner (CLF-C02) exam topics
+
 ✅ Hands-on **labs, quizzes, and real-world scenarios**
+
 ✅ Gain practical AWS experience
+
 ✅ Get ready for the **AWS Certified Cloud Practitioner Exam** and beyond!
 
 ---
