@@ -215,3 +215,184 @@ AWS provides cloud-based applications for business communications and customer e
 ### 📧 Amazon Simple Email Service (Amazon SES)
 - **Flexible, scalable email service** for marketing, notifications, and transactional emails.
 - Supports **DKIM and SPF for email security**.
+
+# 🚀 AWS Container & Compute Services
+
+## 🗂️ Container Services
+AWS provides powerful container orchestration and management services to streamline application deployment:
+
+### **Amazon Elastic Container Registry (ECR)**
+- **Fully managed Docker container registry** for storing, managing, and deploying container images.
+- Integrated with **Amazon ECS, EKS, and AWS Lambda** for seamless container deployment.
+
+### **Amazon Elastic Container Service (ECS)** 🚢
+- **Scalable container management** with native AWS integration.
+- Supports **EC2 launch mode** (self-managed instances) and **AWS Fargate** (serverless containers).
+
+### **Amazon Elastic Kubernetes Service (EKS)** 🌀
+- **Fully managed Kubernetes service** for deploying, managing, and scaling containerized applications.
+- Supports **on-premises Kubernetes clusters** via **AWS Outposts**.
+
+---
+
+## 💻 Compute Services
+AWS offers a range of compute services to meet diverse application needs:
+
+### **AWS Batch** 🏗️
+- **Fully managed batch processing service** for large-scale compute jobs.
+- Optimized for **cost efficiency and scalability**.
+
+### **Amazon EC2 (Elastic Compute Cloud)** ☁️
+- **Virtual servers in the cloud** with customizable configurations.
+- Supports **spot, reserved, and on-demand instances**.
+
+### **AWS Elastic Beanstalk** 🌱
+- **Platform-as-a-Service (PaaS)** for deploying and managing applications effortlessly.
+- Supports multiple programming languages like **Python, Java, PHP, Node.js, and Ruby**.
+
+### **Amazon Lightsail** 💡
+- **Simplified cloud service** for deploying web applications, virtual servers, and databases.
+- Ideal for **small-scale applications and startups**.
+
+### **AWS Local Zones** 📍
+- **Extends AWS Regions closer to users** for ultra-low-latency applications.
+
+### **AWS Outposts** 🏠
+- **Brings AWS infrastructure on-premises** for workloads requiring low latency.
+
+### **AWS Wavelength** 📶
+- **Integrates AWS compute with 5G networks** for ultra-low latency applications.
+
+---
+
+## 💰 Cloud Financial Management Services
+AWS provides cost management tools to optimize cloud expenses:
+
+### **AWS Billing Conductor** 🧾
+- **Customize AWS cost management** based on internal financial structures.
+
+### **AWS Budgets** 📝
+- Set **spending limits and alerts** for better cost control.
+
+### **AWS Cost and Usage Report** 📊
+- **Detailed insights** into AWS resource consumption and billing.
+
+### **AWS Cost Explorer** 💹
+- **Analyze spending trends** and optimize costs with forecasting models.
+
+### **AWS Marketplace** 🛒
+- **Buy and sell** software solutions running on AWS.
+
+---
+
+## 💬 Customer Engagement Services
+AWS offers various services to enhance customer interaction:
+
+### **AWS Activate for Startups** 🚀
+- Provides **AWS credits, technical support, and training** for startups.
+
+### **AWS IQ** 🧠
+- **Connects customers with AWS-certified experts** for cloud projects.
+
+### **AWS Managed Services (AMS)** ⚙️
+- **Fully managed AWS operations** to enhance security and reduce risk.
+
+### **AWS Support** 🛠️
+- **Technical assistance and guidance** for AWS services.
+
+---
+
+## 🗄️ Database Services
+AWS provides fully managed database solutions for different use cases:
+
+### **Amazon Aurora** 🌟
+- **MySQL- and PostgreSQL-compatible relational database** with automated scalability.
+
+### **Amazon DynamoDB** ⚡
+- **NoSQL key-value database** with low-latency performance.
+
+### **Amazon MemoryDB for Redis** 🔥
+- **In-memory caching service** for high-performance applications.
+
+### **Amazon Neptune** 🌐
+- **Graph database service** optimized for connected data queries.
+
+### **Amazon RDS (Relational Database Service)** 💾
+- **Fully managed relational database** supporting MySQL, PostgreSQL, and SQL Server.
+
+---
+
+## 🛠️ Developer Tools
+AWS offers various tools to enhance software development and deployment:
+
+### **AWS AppConfig** ⚙️
+- **Securely deploy application configurations** without downtime.
+
+### **AWS CLI** 💻
+- **Command-line interface** to manage AWS services efficiently.
+
+### **AWS Cloud9** 🌥️
+- **Cloud-based IDE** for writing, running, and debugging code.
+
+### **AWS CloudShell** 🖥️
+- **Browser-based shell** to interact with AWS resources.
+
+### **AWS CodeArtifact** 📦
+- **Managed artifact repository** for software development packages.
+
+### **AWS CodeBuild** 🏗️
+- **Fully managed build service** for continuous integration (CI/CD).
+
+### **AWS CodeCommit** 💼
+- **Secure source code repository** with Git support.
+
+### **AWS CodeDeploy** 🚀
+- **Automates application deployments** across AWS services.
+
+### **AWS CodePipeline** 🔄
+- **Continuous delivery service** for automated deployment pipelines.
+
+### **AWS CodeStar** ⭐
+- **Unified development interface** with built-in CI/CD integration.
+
+### **AWS X-Ray** 🛠️
+- **Performance monitoring and debugging tool** for distributed applications.
+
+---
+
+## 💻 End-User Computing
+AWS enables remote application access and workspace management:
+
+### **Amazon AppStream 2.0** 🎥
+- **Stream desktop applications** to any web browser.
+
+### **Amazon WorkSpaces** 🖥️
+- **Cloud-based virtual desktop infrastructure (VDI)** for Windows and Linux.
+
+### **Amazon WorkSpaces Web** 🌐
+- **Securely access web applications** from managed devices.
+
+---
+
+## 📱 Web and Mobile Front-End
+AWS provides services for web and mobile application development:
+
+### **AWS Amplify** 🔧
+- **Build and deploy scalable web and mobile apps** with serverless backend support.
+
+### **AWS AppSync** 🔄
+- **GraphQL-based API service** for real-time application data synchronization.
+
+### **AWS Device Farm** 📱
+- **Test mobile and web applications** on a wide range of real devices in the cloud.
+
+---
+
+## 🌐 Internet of Things (IoT)
+AWS provides IoT solutions for edge computing and device management:
+
+### **AWS IoT Core** 🔗
+- **Connect and manage IoT devices** securely in the cloud.
+
+### **AWS IoT Greengrass** ⚙️
+- **Run IoT applications locally on edge devices** while syncing with AWS cloud.
