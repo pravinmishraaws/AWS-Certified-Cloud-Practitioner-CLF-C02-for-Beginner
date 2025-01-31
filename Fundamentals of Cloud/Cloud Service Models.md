@@ -4,9 +4,13 @@
 Cloud service models determine **how cloud services are delivered, managed, and utilized**. Understanding these models helps in choosing the right service for businesses.
 
 Cloud computing offers **three main service models**:
+
 1️⃣ **Infrastructure as a Service (IaaS)**
+
 2️⃣ **Platform as a Service (PaaS)**
+
 3️⃣ **Software as a Service (SaaS)**
+
 
 ---
 
