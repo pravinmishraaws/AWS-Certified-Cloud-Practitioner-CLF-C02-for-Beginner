@@ -5,7 +5,9 @@ Cloud deployment models define how cloud services are managed, controlled, and a
 
 When considering cloud deployment models, three key factors need to be evaluated:
 1️⃣ **Where is the cloud infrastructure located?**
+
 2️⃣ **Who controls the infrastructure?**
+
 3️⃣ **Who can access the infrastructure?**
 
 Based on these factors, there are three primary cloud deployment models:
