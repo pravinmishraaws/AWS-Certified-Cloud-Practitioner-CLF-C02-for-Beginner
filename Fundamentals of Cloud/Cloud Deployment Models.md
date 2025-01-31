@@ -78,9 +78,13 @@ Hybrid cloud is ideal for organizations that:
 
 ## **📌 Summary**
 The **three cloud deployment models** are chosen based on organizational requirements for **cost, security, management, and compliance**. They can be evaluated using the following three questions:
+
 1️⃣ **Where is the infrastructure located?**
+
 2️⃣ **Who controls the infrastructure?**
+
 3️⃣ **Who can access the infrastructure?**
+
 
 | **Deployment Model** | **Location** | **Control** | **Access** |
 |----------------------|-------------|-------------|------------|
