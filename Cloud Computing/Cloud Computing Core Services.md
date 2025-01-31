@@ -106,9 +106,13 @@ Cloud providers offer networking services to securely manage connectivity. Examp
 ## **📌 Summary**
 The **four core cloud computing services** are:
 ✅ **Compute** – Processing power (EC2, Lambda)
+
 ✅ **Storage** – Data storage solutions (S3, EBS)
+
 ✅ **Database** – Structured data management (RDS, DynamoDB)
+
 ✅ **Networking** – Secure connectivity (VPC, Route 53)
+
 
 By understanding these services, you are better prepared to work with cloud technologies.
 
