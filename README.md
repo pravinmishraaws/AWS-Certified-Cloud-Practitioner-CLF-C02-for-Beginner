@@ -2,6 +2,14 @@
 
 ![awsccp](https://github.com/user-attachments/assets/1b69cbe8-e082-485f-9524-339c2bf2a7f7)
 
+## 📢 **Join the Community & Enhance Your AWS Learning**
+
+🔹 **Join the Discord Community**: [Click here to join](https://discord.gg/AJN9ybQMWb) 🚀
+
+🔹 **Check out my Udemy Course**: [AWS Certified Cloud Practitioner CLF-C02 for Beginner](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-aws-certification/?couponCode=PRAVIN-JAN-2025) 🏆
+
+🔹 **Want to work on real-world projects?** Check out: [AWS Mastery: 26 AWS Cloud Projects for Engineers & Architects](https://www.udemy.com/course/aws-mastery-hands-on-cloud-projects-for-engineers/?couponCode=PRAVINMISHRA) 💻
+
 
 Welcome to the **AWS Certified Cloud Practitioner (CLF-C02) - Beginner Course**! This comprehensive course is designed to provide you with a solid foundation in **Amazon Web Services (AWS)**, preparing you for the **AWS Certified Cloud Practitioner exam**.
 
