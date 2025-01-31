@@ -21,9 +21,13 @@ An **AWS Account** is a **unique identity** that provides access to AWS cloud se
 AWS offers **multi-account architectures** to improve security, governance, and cost management.
 
 ✅ **Common AWS Account Structures:**
+
 1️⃣ **Single AWS Account** – Suitable for small-scale use.  
-2️⃣ **Multi-Account Setup** – Uses AWS Organizations for account management.  
+
+2️⃣ **Multi-Account Setup** – Uses AWS Organizations for account management.
+
 3️⃣ **Landing Zone Approach** – Automates multi-account setup with **security best practices**.  
+
 
 📌 **Example:** A company may use different accounts for:
 - **Security & Compliance** (Centralized logging, GuardDuty).
