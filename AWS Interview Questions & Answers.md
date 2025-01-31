@@ -146,4 +146,22 @@
 
 ---
 
+## **Identity and Access Management (IAM)**
+
+### 1️⃣ IAM User vs Role?
+
+### 2️⃣ IAM Assume Role?
+
+### 3️⃣ What is a condition in an IAM Policy?
+
+### 4️⃣ Explain IAM Policy and all steps in that.
+
+### 5️⃣ How to create a role and its purpose?
+
+### 6️⃣ What is the purpose of assigning a role to a resource?
+
+### 7️⃣ What is the use of the external ID option while creating a role?
+
+### 8️⃣ Difference between assume role and normal role?
+
 ## 📌 **More AWS Interview Questions Coming Soon! Stay Tuned 🚀**
