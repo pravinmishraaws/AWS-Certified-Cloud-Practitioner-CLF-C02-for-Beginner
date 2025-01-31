@@ -4,6 +4,7 @@
 Cloud deployment models define how cloud services are managed, controlled, and accessed by different organizations. Every organization has unique requirements in terms of **infrastructure, data, security, compliance, and cost**, which is why different deployment models exist.
 
 When considering cloud deployment models, three key factors need to be evaluated:
+
 1️⃣ **Where is the cloud infrastructure located?**
 
 2️⃣ **Who controls the infrastructure?**
