@@ -396,3 +396,165 @@ AWS provides IoT solutions for edge computing and device management:
 
 ### **AWS IoT Greengrass** ⚙️
 - **Run IoT applications locally on edge devices** while syncing with AWS cloud.
+
+# 🤖 AWS Machine Learning Services
+
+## **Amazon Comprehend** 🧠
+- **Natural Language Processing (NLP) service** that uses ML to discover insights and relationships in text.
+- Supports **entity recognition, sentiment analysis, and keyphrase extraction**.
+
+## **Amazon Kendra** 🔍
+- **AI-powered enterprise search service** that enhances search accuracy and relevance.
+- Leverages **natural language understanding** to retrieve precise information.
+
+## **Amazon Lex** 🗣️
+- **Conversational AI service** for building chatbots and voice-enabled applications.
+- Uses **automatic speech recognition (ASR) and NLP** to interpret user queries.
+
+## **Amazon Polly** 🎤
+- **Text-to-speech service** that converts text into natural-sounding speech.
+- Supports multiple **voices and languages**, ideal for voice-enabled applications.
+
+## **Amazon Rekognition** 👁️
+- **Image and video analysis service** powered by ML.
+- Detects **objects, people, text, faces, and activities** in images and videos.
+
+## **Amazon SageMaker** 📊
+- **Fully managed ML service** for building, training, and deploying models at scale.
+- Supports **automated data labeling, model tuning, and edge deployments**.
+
+## **Amazon Textract** 📝
+- **OCR (Optical Character Recognition) service** for extracting structured data from scanned documents.
+- Recognizes **tables, forms, and key-value pairs** automatically.
+
+## **Amazon Transcribe** 🎙️
+- **Speech-to-text service** that converts spoken language into written text.
+- Supports **custom vocabularies and automatic punctuation**.
+
+## **Amazon Translate** 🌍
+- **Neural machine translation service** for automatically translating text between languages.
+- Supports **real-time and batch translation**.
+
+---
+
+# ⚙️ AWS Management and Governance
+
+## **AWS Auto Scaling** ⬆️
+- **Automatically adjusts compute resources** to maintain performance and minimize costs.
+- Supports **dynamic and predictive scaling**.
+
+## **AWS CloudFormation** 🏗️
+- **Infrastructure as Code (IaC) service** for provisioning AWS resources using templates.
+- Supports **versioning, rollback, and automation**.
+
+## **AWS CloudTrail** 🛣️
+- **Tracks AWS API activity** for governance, compliance, and security auditing.
+- Provides **event history and real-time insights**.
+
+## **Amazon CloudWatch** 📊
+- **Monitoring service** for collecting and analyzing logs, metrics, and setting alarms.
+- Supports **automated dashboards and anomaly detection**.
+
+## **AWS Compute Optimizer** ⚡
+- **Recommends optimal compute resources** based on utilization and performance metrics.
+
+## **AWS Config** 📝
+- **Continuously monitors and audits AWS resource configurations**.
+- Ensures compliance with **predefined security policies**.
+
+## **AWS Control Tower** 🏰
+- **Multi-account governance service** to enforce AWS best practices and security policies.
+
+## **AWS License Manager** 💼
+- **Manages software licenses** for vendors like Microsoft and SAP.
+- Tracks **license usage and compliance**.
+
+## **AWS OpsWorks** 🛠️
+- **Configuration management service** that integrates with **Chef and Puppet**.
+
+## **AWS Organizations** 🏢
+- **Centrally manages multiple AWS accounts** with security and compliance controls.
+
+## **AWS Proton** 🔧
+- **Simplifies deployment of container and serverless applications** with infrastructure automation.
+
+## **AWS Service Catalog** 📚
+- **Manages pre-approved AWS services and applications** within an organization.
+
+## **AWS Systems Manager** 🖥️
+- **Centralized interface to manage AWS resources** and automate operational tasks.
+
+## **AWS Trusted Advisor** 🛡️
+- **Provides real-time recommendations** for cost optimization, security, and performance improvements.
+
+## **AWS Well-Architected Tool** 🏗️
+- **Guides best practices for cloud architecture** across five key pillars.
+
+---
+
+# 🎥 AWS Media Services
+
+## **Amazon Interactive Video Service (IVS)** 🎮
+- **Live streaming service** with built-in analytics and chat functionality.
+
+## **AWS Elemental MediaConvert** 🎬
+- **File-based video transcoding service** with broadcast-quality output.
+
+## **AWS Elemental MediaLive** 📹
+- **Live video encoding service** for real-time broadcasting.
+
+## **AWS Elemental MediaPackage** 📦
+- **Packages and encrypts video streams** for multi-device playback.
+
+## **AWS Elemental MediaStore** 💾
+- **Low-latency storage for media content** optimized for streaming workloads.
+
+## **AWS Elemental MediaTailor** 🎯
+- **Dynamic ad insertion service** for personalized video streaming experiences.
+
+---
+
+# 🔄 AWS Migration and Transfer
+
+## **AWS Application Discovery Service** 🛠️
+- **Collects data from on-premises environments** to plan cloud migrations.
+
+## **AWS Database Migration Service (DMS)** 💻
+- **Seamlessly migrates databases** with minimal downtime.
+
+## **AWS DataSync** 📦
+- **Automates data movement** between on-premises storage and AWS.
+
+## **AWS Migration Hub** 🗺️
+- **Centralized tracking and management of migration projects**.
+
+## **AWS Server Migration Service (SMS)** 🖥️
+- **Automates lift-and-shift migrations** of on-premises servers.
+
+---
+
+# 🌐 AWS Networking and Content Delivery
+
+## **Amazon API Gateway** 🖥️
+- **Managed service for building, deploying, and securing APIs**.
+
+## **Amazon CloudFront** 🌍
+- **Global Content Delivery Network (CDN)** for low-latency application delivery.
+
+## **Amazon Route 53** 🌐
+- **Scalable Domain Name System (DNS) service** with routing and health checks.
+
+## **AWS Cloud WAN** 🌎
+- **Wide-Area Network (WAN) service** to manage global networking.
+
+## **AWS Direct Connect** 🌐
+- **Dedicated network connection** between AWS and on-premises data centers.
+
+## **AWS Global Accelerator** 🚀
+- **Improves performance for global applications** with routing optimization.
+
+## **AWS PrivateLink** 🔐
+- **Provides private connectivity to AWS services** without exposing traffic to the internet.
+
+## **AWS Transit Gateway** 🔄
+- **Connects multiple VPCs and on-premises networks** efficiently.
