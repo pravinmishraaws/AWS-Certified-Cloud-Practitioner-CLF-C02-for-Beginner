@@ -5,6 +5,7 @@ The **AWS Free Tier** allows new customers to explore AWS services **without upf
 It provides **750 hours/month** of free usage on various AWS services for **12 months**.
 
 Understanding the Free Tier helps you:
+
 ✅ Experiment with AWS without being charged.  
 ✅ Learn cloud computing concepts.  
 ✅ Build and test applications at no cost.  
