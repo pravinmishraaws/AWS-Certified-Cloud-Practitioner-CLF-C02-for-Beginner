@@ -15,6 +15,7 @@ These measures help prevent **unauthorized access, data breaches, and security r
 ## 📌 1️⃣ Enable Multi-Factor Authentication (MFA)
 ### 🔹 What is MFA?
 MFA adds an **extra layer of security** beyond a password by requiring a second factor, such as:
+
 ✅ **Authenticator App** (Google/Microsoft Authenticator)  
 ✅ **SMS/Email OTP**  
 ✅ **Security Token Devices**  
