@@ -1,6 +1,4 @@
-Here is the **Markdown version** of your lesson content for IAM Policies:  
 
-```markdown
 # 🔐 IAM Policies in AWS
 
 ## 🎉 Introduction  
