@@ -88,6 +88,3 @@ A **strong password policy** prevents weak passwords that can be easily guessed 
 🔹 **Implement a strong password policy** to prevent brute-force attacks.  
 🔹 **Regularly audit AWS accounts** for security best practices.  
 
-🚀 **Next Steps:**  
-👉 **[HOL] Configure MFA & IAM Best Practices**  
-👉 **[HOL] Set Up AWS Budgets for Cost Monitoring**
