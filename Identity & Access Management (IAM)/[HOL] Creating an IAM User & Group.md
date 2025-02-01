@@ -83,6 +83,3 @@ Now, Shyam has **AdministratorAccess** inherited from the **Administrators** gro
 ✅ Assigned appropriate **IAM Policies**.  
 ✅ Added **Users to Groups** for easy permission management.  
 
-🚀 **Next Steps:**  
-👉 **[HOL] Create an IAM Role for EC2**  
-👉 **[HOL] Configure IAM Policies & Permissions**  
