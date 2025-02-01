@@ -66,7 +66,3 @@ AWS Free Tier includes **three types of services**:
 ## 🎯 Conclusion
 AWS Free Tier is a great way to **learn, test, and build** without cost.  
 By understanding **usage limits and best practices**, you can fully leverage AWS without unexpected expenses.
-
-📌 **Next Steps:**  
-👉 **[HOL] Set Up Billing Alerts to Avoid Free Tier Overages**  
-👉 **[HOL] Deploy a Free EC2 Instance**
