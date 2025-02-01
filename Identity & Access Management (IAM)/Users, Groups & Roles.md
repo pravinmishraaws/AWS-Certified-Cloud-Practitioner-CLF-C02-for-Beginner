@@ -80,6 +80,4 @@ An **IAM Role** is an **identity with specific permissions** that can be **assum
 ✅ **IAM Groups** – Collections of users sharing common permissions.  
 ✅ **IAM Roles** – Provide temporary access to AWS services & external users.  
 
-🚀 **Next Steps:**  
-👉 **[HOL] Create IAM Users & Assign to a Group**  
-👉 **[HOL] Create an IAM Role for EC2 Instance**  
+ 
