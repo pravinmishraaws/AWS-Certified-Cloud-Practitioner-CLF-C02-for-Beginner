@@ -4,6 +4,7 @@
 ## 🎉 Introduction
 Securing your AWS account is **crucial** to prevent unauthorized access.  
 This **Hands-On Lab (HOL)** will guide you through:
+
 ✅ **Enabling Multi-Factor Authentication (MFA)** for your Root & IAM users.  
 ✅ **Configuring a Strong Password Policy** for IAM users.  
 
