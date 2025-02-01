@@ -83,14 +83,3 @@ This ensures **fault tolerance** and **data integrity**.
 🔹 **S3 replicates data across multiple AZs by default** for redundancy.  
 🔹 **Cross-Region & Same-Region Replication** allow users to **control data replication** for disaster recovery.  
 🔹 **Storage classes impact availability, durability, and replication behavior**.  
-
-🚀 **Next Steps:** Learn how to configure **S3 replication rules and storage classes** in AWS!  
-```
-
----
-
-### **Fixes & Improvements:**  
-✅ **Structured sections for easy understanding**  
-✅ **Table for storage class comparison**  
-✅ **Examples for replication scenarios**  
-✅ **Optimized for markdown compatibility**  
