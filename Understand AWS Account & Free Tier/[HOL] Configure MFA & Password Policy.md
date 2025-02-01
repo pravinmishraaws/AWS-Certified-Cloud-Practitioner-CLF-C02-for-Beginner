@@ -69,6 +69,3 @@ This **Hands-On Lab (HOL)** will guide you through:
 ✅ **Password policy ensures strong passwords** to prevent breaches.  
 ✅ **IAM security best practices** help protect AWS accounts.  
 
-🚀 **Next Steps:**  
-👉 **[HOL] Secure AWS Access Keys & Set Up IAM Roles**  
-👉 **[HOL] Enable AWS CloudTrail for Security Auditing**  
