@@ -3,6 +3,7 @@
 ## 🎉 Introduction
 Before creating AWS resources, it's **critical** to secure your AWS account.  
 This guide covers:
+
 ✅ **Multi-Factor Authentication (MFA)**  
 ✅ **Access & Secret Keys** (Programmatic Access)  
 ✅ **AWS Password Policy**  
