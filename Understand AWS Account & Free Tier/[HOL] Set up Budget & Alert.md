@@ -3,6 +3,7 @@
 ## 🎉 Introduction
 Managing AWS costs effectively is crucial to **avoid unexpected charges**.  
 This **Hands-On Lab (HOL)** will guide you through:
+
 ✅ **Creating a Budget in AWS**  
 ✅ **Setting Up Cost Alerts** for budget thresholds  
 ✅ **Monitoring & Optimizing AWS Spending**  
@@ -67,6 +68,4 @@ This **Hands-On Lab (HOL)** will guide you through:
 ✅ **Cost Alerts are configured** to prevent overspending.  
 ✅ **Spending is tracked effectively**, ensuring cost optimization.  
 
-🚀 **Next Steps:**  
-👉 **[HOL] Enable AWS Cost Explorer for Usage Analysis**  
-👉 **[HOL] Set Up AWS Trusted Advisor for Cost Optimization**  
+
